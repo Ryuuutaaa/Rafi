@@ -1,0 +1,33 @@
+.tengah{
+    text-align: center;
+    width: 100%;
+
+}
+
+.anggota-list{
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.kartu-anggota{
+    width: 20%;
+    margin: 0 auto;
+
+}
+
+.kartu-anggota img{
+    width: 80%;
+    border-radius: 50%;
+    
+
+}
+
+.kartu-anggota p{
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+    color: #00ADB5;
+}
